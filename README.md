@@ -61,8 +61,6 @@ JARVIS/Backend/Drivers/chromedriver.exe
 🤝 Contributing
 
 
-![J.A.R.V.I.S Dashboard](JARVIS/assets/jarvis.png)
-
 Pull requests are welcome. For major changes, open an issue first.
 
-
+![J.A.R.V.I.S Dashboard](JARVIS/assets/JARVIS/assets/jarvis%20interface.PNG)
