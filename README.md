@@ -61,10 +61,7 @@ JARVIS/Backend/Drivers/chromedriver.exe
 🤝 Contributing
 
 
-
-<p align="center">
-  <img src="assets/jarvis.png" alt="J.A.R.V.I.S Dashboard" width="600">
-</p>
+![J.A.R.V.I.S Dashboard](JARVIS/assets/jarvis.png)
 
 Pull requests are welcome. For major changes, open an issue first.
 
